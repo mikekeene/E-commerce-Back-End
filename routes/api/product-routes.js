@@ -21,8 +21,6 @@ router.get('/', (req, res) => {
       res.status(500).json(err);
     });
 });
-
-
 router.get('/:id', (req, res) => {
   Product.findOne({
     where: {
@@ -112,7 +110,6 @@ router.put('/:id', (req, res) => {
       res.status(400).json(err);
     });
 });
-
 router.delete('/:id', (req, res) => {
   Product.destroy({
     where: {
@@ -131,6 +128,5 @@ router.delete('/:id', (req, res) => {
         res.status(500).json(err);
   });
 });
-
 
 module.exports = router;
