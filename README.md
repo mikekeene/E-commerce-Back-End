@@ -15,7 +15,10 @@ Database app that allows the user to manipulate the database using different end
 
 ### Screenshots
 ### Video
+#### Mysql schema creation, seeding database, & starting server: 
+https://user-images.githubusercontent.com/93222787/159149029-46aa6954-af3d-4295-99bc-409c42736297.mp4
 
+https://user-images.githubusercontent.com/93222787/159149031-c895269b-2077-4d49-8b5f-c6dd620a4891.mp4 
 ## Licence
 MIT License
 ## Questions
