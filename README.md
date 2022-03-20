@@ -1,19 +1,23 @@
 # E-Commerce
-
 ## Description
-        
 Database app that allows the user to manipulate the database using different endpoints. Insomnia can be used to test out the different endpoints.
-
+## Table of Contents 
+* [Installation](#Installation)
+* [License](#License)
+* [Questions](#Questions)
 ## Installation
+* Clone repository
+* npm init 
+* npm i (install packages)
+* mysql -u root -p 
+* source db file and run npm run seed
+* npm start (start app)
 
-* Navigate to [https://github.com/mikekeene/E-commerce-Back-End](https://github.com/mikekeene/E-commerce-Back-End). 
-* Click the 'code' button and download the zip file.
-* Unzip the file on your computer.
+### Screenshots
+### Video
 
-## Usage
-
-Once you've downloaded the code open the zipped folder in an IDE.
-
-Then update the .env file with your information. Run 'mysql -u root -p' and run the schema file.
-
-After you can run 'npm run seed' and 'npm run start' to test it out with Insomnia.
+## Licence
+MIT License
+## Questions
+Questions or concerns? </br>
+Find me on GitHub: [mikekeene](https://github.com/mikekeene)
